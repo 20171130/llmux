@@ -1,4 +1,7 @@
 # LLMux, a Large Language Model operating system for general purpose life long learning
+
+**Notice: This project is the predecessor of [NPython](https://github.com/20171130/NPython) and is no longer updated.**
+
 llmux is an operating system on Large Language Models that provides an abstraction layer with basic funtionalities such as multiagent concurrency and communication, long-term memomy management, device management, etc.
 It is designed to help building complex applications on large language model chatbots.
 llmux is currently an experimental project under rapid development.
